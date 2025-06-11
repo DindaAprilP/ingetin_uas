@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:ingetin/register.dart';
-import 'text_field.dart';
 import 'package:get/get.dart';
 
 class LoginScreen extends StatefulWidget {
