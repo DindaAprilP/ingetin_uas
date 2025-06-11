@@ -60,8 +60,8 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
-  aseets:
-   - aseets/splashAwal.png
+  assets:
+   - assets/splashAwal.png
    - assets/berandaKosong.png
    - assets/login.png
    - assets/ingetinHitam.png
